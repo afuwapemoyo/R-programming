@@ -1,7 +1,7 @@
 # R-programming
 
 ![](R.jpd)
-![](RmarkDown.pdf)
+![](image/RmarkDown.pdf)
 
 
 # R-programming
