@@ -1,6 +1,6 @@
 # R-programming
 
-![](image/RmarkDown.pdf)
+![](image/RmarkDown.png)
 
 
 # R-programming
